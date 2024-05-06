@@ -1,3 +1,4 @@
+// box_animation
 gsap.to("#box1" , {
 x:1000,
 duration:2,
