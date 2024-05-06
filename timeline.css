@@ -1,0 +1,30 @@
+#box1{
+    background-color: rgb(238, 115, 115);
+    height:200px;
+    width:200px;
+}
+#box2{
+    background-color: rgba(38, 128, 217, 0.634);
+    height:200px;
+    width:200px;
+}
+#box3{
+    background-color: rgb(72, 216, 96);
+    height:200px;
+    width:200px;
+}
+#box4{
+    background-color: rgb(3, 55, 145);
+    height:200px;
+    width:200px;
+}
+#box5{
+    background-color: rgba(118, 202, 28, 0.634);
+    height:200px;
+    width:200px;
+}
+#box6{
+    background-color: rgb(166, 22, 60);
+    height:200px;
+    width:200px;
+}
